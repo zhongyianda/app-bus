@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/identify_user.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/identify_user.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/confirm_highlighted.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/confirm_highlighted.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gallery_button.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/gallery_button.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_bar_2.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/menu_bar_2.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/reset_album.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/reset_album.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/settings.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trash.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/trash.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shutter_button.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/shutter_button.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/update_user.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/update_user.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/camera_facing_front.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/camera_facing_front.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/live_recognition.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/live_recognition.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/flash_off.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/flash_off.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/confirm.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/confirm.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/border.xml",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/border.xml"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/new_background.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/new_background.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_button_highlighted.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/home_button_highlighted.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/flash_on.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/flash_on.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete_user.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/delete_user.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trash_highlighted.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/trash_highlighted.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_button.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/home_button.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bar.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/bar.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/camera_facing_back.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/camera_facing_back.png"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_user.png",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/drawable-hdpi/add_user.png"
+    }
+]

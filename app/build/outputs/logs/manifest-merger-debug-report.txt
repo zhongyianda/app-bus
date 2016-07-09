@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:9:1-60:12
+	package
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:10:5-61
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:12:5-30
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:11:5-28
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:9:11-69
+uses-sdk
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:14:5-16:41
+MERGED from [cn.leancloud.android:avoscloud-push:v3.14] /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-push/v3.14/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:16:9-38
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:15:9-34
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:18:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:20:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:21:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:23:22-76
+uses-feature#android.hardware.camera
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:25:5-60
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:25:19-57
+application
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:27:5-58:19
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:31:9-41
+	android:configChanges
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:29:9-44
+	android:allowBackup
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:30:9-45
+	android:largeHeap
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:32:9-33
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.FacialRecognitionActivity
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:33:9-42:20
+	android:screenOrientation
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:35:13-45
+	android:theme
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:37:13-71
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:34:13-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:40:27-74
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.AddPhoto
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:43:9-46:61
+	android:screenOrientation
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:45:13-61
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:44:13-83
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.ImageConfirmation
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:47:9-49:82
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:49:13-70
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:48:13-92
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.ChooseUser
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:50:9-52:75
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:52:13-63
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:51:13-85
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.LiveRecognition
+ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:53:9-57:83
+	android:screenOrientation
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:55:13-68
+	android:theme
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:57:13-71
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/AndroidManifest.xml:54:13-90

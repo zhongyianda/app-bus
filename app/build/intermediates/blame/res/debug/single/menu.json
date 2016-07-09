@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/menu/choose_user.xml",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/menu/choose_user.xml"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/menu/facial_recognition.xml",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/menu/facial_recognition.xml"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/menu/add_photo.xml",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/menu/add_photo.xml"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/menu/image_confirmation.xml",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/menu/image_confirmation.xml"
+    },
+    {
+        "merged": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/build/intermediates/res/merged/debug/menu/live_recognition.xml",
+        "source": "/Users/fengxiaoping/Projects/schoolbus/app/app-bus/app/src/main/res/menu/live_recognition.xml"
+    }
+]
