@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+/* ======================================================================
+ *  Copyright 2014 Qualcomm Technologies, Inc. All Rights Reserved.
+ *  QTI Proprietary and Confidential.
+ *  =====================================================================
+ *
+ */-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">安达校车管理</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_add_photo">添加用户</string>
+    <string name="title_activity_image_confirmation">确定用户</string>
+    <string name="title_activity_choose_user">选择用户</string>
+    <string name="title_activity_live_recognition">实时识别</string>
+    <string name="description">描述</string>
+
+</resources>
