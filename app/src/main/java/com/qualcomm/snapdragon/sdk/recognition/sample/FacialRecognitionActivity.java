@@ -97,7 +97,7 @@ public class FacialRecognitionActivity extends Activity {
                     .isFeatureSupported(FEATURE_LIST.FEATURE_FACIAL_RECOGNITION);
             if (isSupported) {
                 Log.d(TAG, "Feature Facial Recognition is supported");
-                faceObj = (FacialProcessing) FacialProcessing.getInstance();
+                faceObj = FacialProcessing.getInstance();
 //                loadAlbum(); // De-serialize a previously stored album.
                 syncFromCloud();
                 if (faceObj != null) {

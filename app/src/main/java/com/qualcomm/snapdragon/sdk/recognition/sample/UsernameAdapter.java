@@ -52,7 +52,7 @@ public class UsernameAdapter extends BaseAdapter {
 			gridView = inflater.inflate(R.layout.usernames, null);
 			
 		} else {
-			gridView = (View) convertView;
+			gridView = convertView;
 		}
 		
 		TextView tv = (TextView) gridView.findViewById(R.id.textView1);

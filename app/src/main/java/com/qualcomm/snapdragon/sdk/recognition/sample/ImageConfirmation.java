@@ -377,7 +377,6 @@ public class ImageConfirmation extends Activity {
                                 paintForTextBackground
                                         .setStyle(Paint.Style.FILL);
                                 paintForTextBackground.setColor(Color.BLACK);
-                                ;
                                 paintForText.setTypeface(tp);
                                 paintForTextBackground.setAlpha(80);
                                 if (personName != null) {

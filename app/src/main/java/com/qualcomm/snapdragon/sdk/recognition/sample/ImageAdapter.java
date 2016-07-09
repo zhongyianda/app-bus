@@ -38,7 +38,7 @@ public class ImageAdapter extends BaseAdapter {
             gridView = inflater.inflate(R.layout.images, null);
 
         } else {
-            gridView = (View) convertView;
+            gridView = convertView;
         }
 
 //        ImageView imageView = (ImageView) gridView.findViewById(R.id.imageView);
